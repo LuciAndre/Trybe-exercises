@@ -1,0 +1,1 @@
+Nesse exercicio eu conetei meu repositorio remoto trybe-exercises com meu repositorio local com o mesmo nome. Eu fiz tudo isso na branch master mas a partir de agora cada exercicio sera uma branch diferente. 
