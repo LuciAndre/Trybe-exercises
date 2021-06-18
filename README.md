@@ -1,0 +1,1 @@
+Aqui eu vou resolver todos os exercicios da Trybe, cada bloco tera a sua propria pastcada dia tambem. 
