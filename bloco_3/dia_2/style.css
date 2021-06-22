@@ -1,0 +1,38 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+ul {
+    background-color: yellowgreen;
+    line-height: 30px;
+}
+
+.style-ex4 {
+    color: burlywood;
+    font-weight: bold;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    text-decoration: underline darkorchid;
+}
+
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+#amarelo {
+    background-color: yellow;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#marrom {
+    background-color: brown;
+}
