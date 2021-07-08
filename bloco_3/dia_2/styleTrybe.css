@@ -2,3 +2,16 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
+.paragraph_geral {
+  color: #475550; /* pode se colocar a cor como esta acima, de forma nominal (red) e rgb. O mais comum e o exagesimal*/
+}
+
+.trybe_green {
+  color: #11a36a;
+}
+
+.section-title {
+  line-height: 42px;
+  font-weight: 600;
+  font-size: 28px;
+}
