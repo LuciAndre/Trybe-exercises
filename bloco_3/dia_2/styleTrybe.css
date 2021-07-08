@@ -15,3 +15,22 @@ body {
   font-weight: 600;
   font-size: 28px;
 }
+
+.testimonial_name {
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.picture {
+  border-radius: 50%;
+  /* posso colocar valores diferentes para cada borda, separo cada valor por espacos: 40px 50px 30px 60px. Se uso dois valores (50px 40px) eles se repetem nos lados opostos */
+}
+
+.button {
+  background-color: #11a36a;
+  border-radius: 4px;
+  padding: 15px 30px;
+  color: #ffffff;
+  text-decoration: none;
+}
