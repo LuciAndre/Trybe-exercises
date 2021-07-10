@@ -79,3 +79,22 @@ body {
 .market-text p {
   margin-bottom: 30px;
 }
+
+.student-testimonial {
+  padding: 30px 70px 90px 70px;
+  width: 80%;
+  margin: auto;
+}
+
+.student-container {
+  width: 30%;
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  vertical-align: top;
+  /*usar background-color para visualizar como estao alinhados os blocos, depois tirar*/
+}
+
+.student-container p {
+  margin: 10px;
+}
