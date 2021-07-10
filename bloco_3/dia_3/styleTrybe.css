@@ -12,6 +12,10 @@ body {
 
 .trybe_green {
   color: #11a36a;
+}
+
+.main-title {
+  color: #0a7e51;
   line-height: 55px;
   font-weight: 600;
   font-size: 45px;
@@ -97,4 +101,39 @@ body {
 
 .student-container p {
   margin: 10px;
+}
+
+.fundators {
+  background-color: #f5f5f5;
+}
+
+.learning {
+  padding: 30px 70px;
+  min-height: 350px;
+}
+
+.learning-left {
+  float: left;
+  max-width: 35%;
+  margin-left: 70px;
+}
+
+.learning-right {
+  float: right;
+  margin-right: 70px;
+}
+
+.footer {
+  clear: both; /*limpa os esquemas de flutuagem que tem no estilo de acima, volta a posicao original*/
+  text-align: center;
+  padding-top: 60px;
+}
+
+.footer h4 {
+  margin: 30px;
+}
+
+.learning li {
+  margin-bottom: 30px;
+  list-style-type: square; /*muda o ponto dos elementos da lista*/
 }
