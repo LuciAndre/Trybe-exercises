@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: Montserrat, sans-serif;
 }
@@ -8,6 +12,11 @@ body {
 
 .trybe_green {
   color: #11a36a;
+  line-height: 55px;
+  font-weight: 600;
+  font-size: 45px;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
 }
 
 .section-title {
@@ -33,4 +42,26 @@ body {
   padding: 15px 30px;
   color: #ffffff;
   text-decoration: none;
+}
+
+.header {
+  background-image: url("images/smiling-image.jpeg");
+  background-size: cover;
+  padding: 60px 30px 40px 30px;
+  background-position: 50% 25%;
+}
+
+.header-content {
+  max-width: 60%;
+  margin-left: 75px;
+}
+
+.header-text {
+  max-width: 80%; /*Header-text esta dentro de header-content que ya tiene una largura maxima de 60%, el cual es el 100% de header-text*/
+  text-align: left;
+}
+
+.header-text p {
+  margin-bottom: 30px;
+
 }
